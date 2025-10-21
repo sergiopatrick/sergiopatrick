@@ -1,47 +1,43 @@
-```markdown
-# 👋 Hi, I'm Sérgio Patrick  
+## Hi, I'm Sérgio Patrick
 
-💡 **Data Engineer | SEO & Automation Specialist | Python & Cloud Enthusiast**  
+💡 Data Engineer | SEO & Automation Specialist | Python & Cloud Enthusiast
 
-I’m passionate about building data-driven systems that connect technology, marketing, and intelligence.  
-My background blends **data engineering**, **AI automation**, and **SEO scalability**, enabling me to design pipelines that transform raw data into strategic insights.
-
----
-
-### ⚙️ What I Do
-- 🧠 **Data Engineering:** ETL pipelines, APIs, dbt, Airflow, and BigQuery  
-- 📊 **Analytics & Tracking:** GA4, GSC, Looker Studio, Power BI  
-- 🤖 **Automation:** Python + APIs + AI for SEO and marketing workflows  
-- ☁️ **Cloud & Infra:** Docker, GCP, Linux, Git, CI/CD  
+I’m passionate about building data-driven systems that connect technology, marketing, and intelligence.
+My background blends data engineering, AI automation, and SEO scalability, enabling me to design pipelines that drive measurable growth.
 
 ---
 
-### 🛠️ Tech Stack
+### What I Do
 
-| Category | Tools |
-|-----------|--------|
-| **Languages** | Python, SQL, JavaScript |
-| **Data Tools** | Airflow, dbt, Pandas, BigQuery |
-| **Infra & DevOps** | Docker, Git, Linux |
-| **Analytics** | Google Analytics 4, Search Console, Power BI |
-| **AI/Automation** | OpenAI API, DeepSeek, Ollama, Make (Integromat) |
+* Data Engineering: ETL pipelines, APIs, dbt, Airflow, and BigQuery
+* Analytics & Tracking: GA4, GSC, Looker Studio, Power BI
+* Automation: Python + APIs + AI for SEO and marketing workflows
+* Cloud & Infra: Docker, GCP, Linux, Git, CI/CD
 
 ---
 
-### 🚀 Current Projects
-- **`project-enriquecimento-cid`** → Enrichment pipeline for medical taxonomy using LLMs  
-- **`learningseo`** → SEO Roadmap for learning development  
-- **`sergiopatrick.dev`** → Personal portfolio (under construction)
+### Tech Stack
+
+| Category       | Tools                                           |
+| -------------- | ----------------------------------------------- |
+| Languages      | Python, SQL, JavaScript                         |
+| Data Tools     | Airflow, dbt, Pandas, BigQuery                  |
+| Infra & DevOps | Docker, Git, Linux                              |
+| Analytics      | Google Analytics 4, Search Console, Power BI    |
+| AI/Automation  | OpenAI API, DeepSeek, Ollama, Make (Integromat) |
 
 ---
 
-### 🌍 About Me
-📍 Salvador, BA, Brazil  
-💬 Open to collaborations on **data, automation, and AI integration**  
-📫 Reach me at **[sergio.patrick@outlook.com.br](mailto:sergio.patrick@outlook.com.br)**  
+### Current Projects
+
+* project-enriquecimento-cid – Enrichment pipeline for medical taxonomy using LLMs
+* learningseo – SEO Roadmap for learning development
+* sergiopatrick.dev – Personal portfolio (under construction)
+
 ---
 
-### ⚡ Fun Fact
-When I’m not coding, I’m usually exploring how **AI can automate SEO** or discovering new **data visualization** techniques.
+### About Me
 
-```
+📍 Salvador, BA, Brazil
+🤝 Open to collaborations on data, automation, and AI integration
+📧 Reach me at: [sergio.patrick@outlook.com.br](mailto:sergio.patrick@outlook.com.br)
