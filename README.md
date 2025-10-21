@@ -1,8 +1,3 @@
-Perfeito 🔥 Aqui vai um modelo de **README.md** completo e moderno para o seu perfil do GitHub — otimizado para **Data Engineer com background em SEO e automação**.
-O texto é 100% personalizável e segue o estilo visual usado por perfis de destaque no GitHub.
-
----
-
 ```markdown
 # 👋 Hi, I'm Sérgio Patrick  
 
@@ -44,8 +39,6 @@ My background blends **data engineering**, **AI automation**, and **SEO scalabil
 📍 Salvador, BA, Brazil  
 💬 Open to collaborations on **data, automation, and AI integration**  
 📫 Reach me at **[sergio.patrick@outlook.com.br](mailto:sergio.patrick@outlook.com.br)**  
-🌐 Portfolio: [sergiopatrick.dev](https://sergiopatrick.dev)
-
 ---
 
 ### ⚡ Fun Fact
